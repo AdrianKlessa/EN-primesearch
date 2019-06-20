@@ -20,7 +20,8 @@ public class Main {
 			{
 				if(x%y==0)
 				{
-					flag=true;					
+					flag=true;
+					break;
 				}	
 							
 			}
